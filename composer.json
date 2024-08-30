@@ -1,6 +1,6 @@
 {
-    "name": "zgabievi/laravel-promocodes",
-    "description": ":package_description",
+    "name": "zoondengine/laravel-promocodes",
+    "description": "zgabievi promocodes fork with laravel 10 support",
     "license": "MIT",
     "authors": [
         {
